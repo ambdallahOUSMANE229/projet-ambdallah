@@ -14,7 +14,7 @@
         "symfony/runtime": "7.4.*",
         "symfony/yaml": "7.4.*"
     },
-    "require-devv": {
+    "require-devvV": {
     },
     "config": {
         "allow-plugins": {
